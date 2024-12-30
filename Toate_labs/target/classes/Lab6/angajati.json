@@ -1,0 +1,36 @@
+[ {
+  "numele" : "Ion",
+  "postul" : "Sef",
+  "data_angajarii" : [ 2023, 4, 1 ],
+  "salariul" : 2000.0
+}, {
+  "numele" : "Maria",
+  "postul" : "Contabil",
+  "data_angajarii" : [ 2015, 12, 1 ],
+  "salariul" : 1500.0
+}, {
+  "numele" : "Vasile",
+  "postul" : "Programator",
+  "data_angajarii" : [ 2018, 12, 1 ],
+  "salariul" : 3000.0
+}, {
+  "numele" : "Mexic",
+  "postul" : "Director",
+  "data_angajarii" : [ 2019, 4, 1 ],
+  "salariul" : 5000.0
+}, {
+  "numele" : "Cosmin",
+  "postul" : "IT",
+  "data_angajarii" : [ 2020, 4, 1 ],
+  "salariul" : 4000.0
+}, {
+  "numele" : "Paul",
+  "postul" : "Sef",
+  "data_angajarii" : [ 2021, 4, 1 ],
+  "salariul" : 2500.0
+}, {
+  "numele" : "Flavian",
+  "postul" : "Sef",
+  "data_angajarii" : [ 2021, 4, 1 ],
+  "salariul" : 2500.0
+} ]

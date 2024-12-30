@@ -1,0 +1,34 @@
+[ [ "Lab7.ex2.SetTobe", {
+  "producator" : "Pearl",
+  "pret" : "3000",
+  "tiptobe" : "ACUSTICE",
+  "nrTobe" : 5,
+  "nr_cinele" : 3
+} ], [ "Lab7.ex2.SetTobe", {
+  "producator" : "Roland",
+  "pret" : "4000",
+  "tiptobe" : "ELECTRONICE",
+  "nrTobe" : 7,
+  "nr_cinele" : 5
+} ], [ "Lab7.ex2.Chitara", {
+  "producator" : "Ibanez",
+  "pret" : "1500",
+  "tipChitara" : "CLASICA",
+  "numarCorzi" : 4
+} ], [ "Lab7.ex2.SetTobe", {
+  "producator" : "Mapex",
+  "pret" : "3500",
+  "tiptobe" : "ACUSTICE",
+  "nrTobe" : 6,
+  "nr_cinele" : 4
+} ], [ "Lab7.ex2.Chitara", {
+  "producator" : "Fender",
+  "pret" : "1000",
+  "tipChitara" : "ELECTRICA",
+  "numarCorzi" : 6
+} ], [ "Lab7.ex2.Chitara", {
+  "producator" : "Yamaha",
+  "pret" : "2000",
+  "tipChitara" : "ACUSTICA",
+  "numarCorzi" : 12
+} ] ]

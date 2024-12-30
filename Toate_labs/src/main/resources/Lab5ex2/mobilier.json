@@ -1,0 +1,49 @@
+[ {
+  "nume" : "mobilier1",
+  "placa" : [ {
+    "descriere" : "placa1",
+    "lungime" : 200,
+    "latime" : 60,
+    "orientare" : "LUNGIME",
+    "canturi" : [ true, true, true, true ],
+    "nr_bucati" : 70
+  }, {
+    "descriere" : "placa2",
+    "lungime" : 220,
+    "latime" : 150,
+    "orientare" : "LATIME",
+    "canturi" : [ true, true, false, true ],
+    "nr_bucati" : 500
+  }, {
+    "descriere" : "placa3",
+    "lungime" : 250,
+    "latime" : 100,
+    "orientare" : "LUNGIME",
+    "canturi" : [ true, true, true, true ],
+    "nr_bucati" : 170
+  } ]
+}, {
+  "nume" : "mobilier2",
+  "placa" : [ {
+    "descriere" : "placa1",
+    "lungime" : 200,
+    "latime" : 60,
+    "orientare" : "LUNGIME",
+    "canturi" : [ true, true, true, true ],
+    "nr_bucati" : 70
+  }, {
+    "descriere" : "placa2",
+    "lungime" : 220,
+    "latime" : 150,
+    "orientare" : "LATIME",
+    "canturi" : [ true, true, false, true ],
+    "nr_bucati" : 500
+  }, {
+    "descriere" : "placa3",
+    "lungime" : 250,
+    "latime" : 100,
+    "orientare" : "LUNGIME",
+    "canturi" : [ true, true, true, true ],
+    "nr_bucati" : 170
+  } ]
+} ]

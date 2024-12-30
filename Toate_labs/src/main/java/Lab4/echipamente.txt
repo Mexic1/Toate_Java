@@ -1,0 +1,8 @@
+HP Deskjet 1000;1234;170;A;achizitionat;imprimanta;12;600 x 600 dpi;1000;color
+HP Officejet 7000 Wide;1235;1200;B;vandut;imprimanta;33;4800x1200 dpi;2000;color
+HP;1235;1200;B;vandut;imprimanta;33;4800x1200 dpi;2000;color
+Konica Minolta bizhub C200;1236;17000;B;expus;copiator;2000;A3
+Konica Minolta bizhub 163;1237;500;C;vandut;copiator;1500;A4
+HUSK Office tech Celeron Dual Core E3400;1238;950;A;expus;sistem de calcul;belinea;2.4;500;windows
+HUSK;1238;950;A;expus;sistem de calcul;belinea;2.4;500;windows
+HUSK Office tech Celeron Dual Core G530;1239;1000;B;vandut;sistem de calcul;dell;2.6;700;linux

@@ -1,0 +1,27 @@
+{
+  "1" : [ "Lab7.ex1.Carte", {
+    "titlu" : "Homo Deus: A Brief History of Tomorrow",
+    "autor" : "Yuval Noah Harari",
+    "an" : 2015
+  } ],
+  "2" : [ "Lab7.ex1.Carte", {
+    "titlu" : "To Kill a Mockingbird",
+    "autor" : "Harper Lee",
+    "an" : 2018
+  } ],
+  "3" : [ "Lab7.ex1.Carte", {
+    "titlu" : "Brave New World",
+    "autor" : "Aldous Huxley",
+    "an" : 2011
+  } ],
+  "4" : [ "Lab7.ex1.Carte", {
+    "titlu" : "Homo Deus: A Brief History of Tomorrow",
+    "autor" : "Paulo Coelho",
+    "an" : 2013
+  } ],
+  "5" : [ "Lab7.ex1.Carte", {
+    "titlu" : "The Alchemist",
+    "autor" : "Paulo Coelho",
+    "an" : 2020
+  } ]
+}
